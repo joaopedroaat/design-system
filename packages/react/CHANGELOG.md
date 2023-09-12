@@ -1,5 +1,11 @@
 # @joaopedroaat-ignite-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- Added Toast and ToolTip
+
 ## 2.0.1
 
 ### Patch Changes
